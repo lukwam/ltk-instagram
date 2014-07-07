@@ -1,0 +1,4 @@
+client_id = 'myclientid'
+client_secret = 'myclientsecret'
+redirect_uri = 'http://localhost:8515/oauth_callback'
+port_number = 8515
